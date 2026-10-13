@@ -38,6 +38,11 @@ header h1{color:var(--accent-fonce)}
 @media(max-width:850px){.controls:not(.keywordControls){justify-content:center;flex-wrap:wrap}.starChoice{min-width:19px}}
 @media(max-width:520px){#difficultyPicker{flex-wrap:wrap;justify-content:center}.controls:not(.keywordControls){gap:16px}}
 
+/* Centrage des intitulés par rapport à chaque groupe complet de commandes */
+.controls:not(.difficultyControls) > .control{justify-items:center;text-align:center}
+.controls:not(.difficultyControls) > .control > label{width:100%;text-align:center}
+.controls:not(.difficultyControls) > .control > .line{justify-content:center}
+
 /* Alignement des trois modes de recherche, difficulté centrée en dessous */
 .controls.difficultyControls{justify-content:center;margin-top:20px}
 .difficultyControls .control{align-items:center;text-align:center}
