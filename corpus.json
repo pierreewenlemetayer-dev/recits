@@ -120,7 +120,11 @@
         ],
         "reponse": 1
       }
-    ]
+    ],
+    "mots": 394,
+    "jlisi": 12.1,
+    "kandel_moles": 75.9,
+    "etoiles": 7
   },
   {
     "numero": 2,
@@ -243,7 +247,11 @@
         ],
         "reponse": 2
       }
-    ]
+    ],
+    "mots": 447,
+    "jlisi": 8.7,
+    "kandel_moles": 74.3,
+    "etoiles": 3
   },
   {
     "numero": 3,
@@ -366,7 +374,11 @@
         ],
         "reponse": 1
       }
-    ]
+    ],
+    "mots": 372,
+    "jlisi": 12.9,
+    "kandel_moles": 67.2,
+    "etoiles": 7
   },
   {
     "numero": 4,
@@ -489,7 +501,11 @@
         ],
         "reponse": 2
       }
-    ]
+    ],
+    "mots": 404,
+    "jlisi": 13.5,
+    "kandel_moles": 73.9,
+    "etoiles": 8
   },
   {
     "numero": 5,
@@ -612,7 +628,11 @@
         ],
         "reponse": 1
       }
-    ]
+    ],
+    "mots": 553,
+    "jlisi": 10.1,
+    "kandel_moles": 72,
+    "etoiles": 5
   },
   {
     "numero": 6,
@@ -735,7 +755,11 @@
         ],
         "reponse": 1
       }
-    ]
+    ],
+    "mots": 443,
+    "jlisi": 13.8,
+    "kandel_moles": 68.6,
+    "etoiles": 8
   },
   {
     "numero": 7,
@@ -858,7 +882,11 @@
         ],
         "reponse": 1
       }
-    ]
+    ],
+    "mots": 554,
+    "jlisi": 11.5,
+    "kandel_moles": 72.5,
+    "etoiles": 6
   },
   {
     "numero": 8,
@@ -981,7 +1009,11 @@
         ],
         "reponse": 2
       }
-    ]
+    ],
+    "mots": 362,
+    "jlisi": 13.8,
+    "kandel_moles": 67.3,
+    "etoiles": 8
   },
   {
     "numero": 9,
@@ -1104,7 +1136,11 @@
         ],
         "reponse": 1
       }
-    ]
+    ],
+    "mots": 537,
+    "jlisi": 9.1,
+    "kandel_moles": 75.5,
+    "etoiles": 4
   },
   {
     "numero": 10,
@@ -1227,7 +1263,11 @@
         ],
         "reponse": 0
       }
-    ]
+    ],
+    "mots": 596,
+    "jlisi": 10.8,
+    "kandel_moles": 77.6,
+    "etoiles": 5
   },
   {
     "numero": 11,
@@ -1350,7 +1390,11 @@
         ],
         "reponse": 2
       }
-    ]
+    ],
+    "mots": 346,
+    "jlisi": 11.1,
+    "kandel_moles": 79.3,
+    "etoiles": 6
   },
   {
     "numero": 12,
@@ -1473,7 +1517,11 @@
         ],
         "reponse": 2
       }
-    ]
+    ],
+    "mots": 353,
+    "jlisi": 12.9,
+    "kandel_moles": 68,
+    "etoiles": 7
   },
   {
     "numero": 13,
@@ -1596,7 +1644,11 @@
         ],
         "reponse": 1
       }
-    ]
+    ],
+    "mots": 515,
+    "jlisi": 11.2,
+    "kandel_moles": 68.4,
+    "etoiles": 6
   },
   {
     "numero": 14,
@@ -1719,7 +1771,11 @@
         ],
         "reponse": 2
       }
-    ]
+    ],
+    "mots": 562,
+    "jlisi": 12.9,
+    "kandel_moles": 71.4,
+    "etoiles": 7
   },
   {
     "numero": 15,
@@ -1842,7 +1898,11 @@
         ],
         "reponse": 2
       }
-    ]
+    ],
+    "mots": 528,
+    "jlisi": 11.9,
+    "kandel_moles": 78.8,
+    "etoiles": 6
   },
   {
     "numero": 16,
@@ -1965,7 +2025,11 @@
         ],
         "reponse": 2
       }
-    ]
+    ],
+    "mots": 442,
+    "jlisi": 11.1,
+    "kandel_moles": 76,
+    "etoiles": 6
   },
   {
     "numero": 17,
@@ -2088,7 +2152,11 @@
         ],
         "reponse": 1
       }
-    ]
+    ],
+    "mots": 518,
+    "jlisi": 13.7,
+    "kandel_moles": 68.2,
+    "etoiles": 8
   },
   {
     "numero": 18,
@@ -2211,7 +2279,11 @@
         ],
         "reponse": 2
       }
-    ]
+    ],
+    "mots": 511,
+    "jlisi": 11.1,
+    "kandel_moles": 75,
+    "etoiles": 6
   },
   {
     "numero": 19,
@@ -2334,7 +2406,11 @@
         ],
         "reponse": 2
       }
-    ]
+    ],
+    "mots": 507,
+    "jlisi": 10.2,
+    "kandel_moles": 73.6,
+    "etoiles": 5
   },
   {
     "numero": 20,
@@ -2457,7 +2533,11 @@
         ],
         "reponse": 2
       }
-    ]
+    ],
+    "mots": 504,
+    "jlisi": 10.1,
+    "kandel_moles": 74.2,
+    "etoiles": 5
   },
   {
     "numero": 21,
@@ -2580,7 +2660,11 @@
         ],
         "reponse": 2
       }
-    ]
+    ],
+    "mots": 750,
+    "jlisi": 9.5,
+    "kandel_moles": 72.1,
+    "etoiles": 4
   },
   {
     "numero": 22,
@@ -2703,7 +2787,11 @@
         ],
         "reponse": 1
       }
-    ]
+    ],
+    "mots": 267,
+    "jlisi": 13.9,
+    "kandel_moles": 68.3,
+    "etoiles": 8
   },
   {
     "numero": 23,
@@ -2826,7 +2914,11 @@
         ],
         "reponse": 0
       }
-    ]
+    ],
+    "mots": 415,
+    "jlisi": 13.6,
+    "kandel_moles": 57.7,
+    "etoiles": 8
   },
   {
     "numero": 24,
@@ -2949,7 +3041,11 @@
         ],
         "reponse": 1
       }
-    ]
+    ],
+    "mots": 313,
+    "jlisi": 16.2,
+    "kandel_moles": 68.1,
+    "etoiles": 10
   },
   {
     "numero": 25,
@@ -3072,7 +3168,11 @@
         ],
         "reponse": 1
       }
-    ]
+    ],
+    "mots": 606,
+    "jlisi": 9.6,
+    "kandel_moles": 74.3,
+    "etoiles": 4
   },
   {
     "numero": 26,
@@ -3195,7 +3295,11 @@
         ],
         "reponse": 2
       }
-    ]
+    ],
+    "mots": 652,
+    "jlisi": 9,
+    "kandel_moles": 76,
+    "etoiles": 4
   },
   {
     "numero": 27,
@@ -3318,7 +3422,11 @@
         ],
         "reponse": 0
       }
-    ]
+    ],
+    "mots": 484,
+    "jlisi": 11.3,
+    "kandel_moles": 76.3,
+    "etoiles": 6
   },
   {
     "numero": 28,
@@ -3441,7 +3549,11 @@
         ],
         "reponse": 1
       }
-    ]
+    ],
+    "mots": 555,
+    "jlisi": 11.9,
+    "kandel_moles": 74.7,
+    "etoiles": 6
   },
   {
     "numero": 29,
@@ -3564,7 +3676,11 @@
         ],
         "reponse": 1
       }
-    ]
+    ],
+    "mots": 476,
+    "jlisi": 10.6,
+    "kandel_moles": 75,
+    "etoiles": 5
   },
   {
     "numero": 30,
@@ -3687,7 +3803,11 @@
         ],
         "reponse": 2
       }
-    ]
+    ],
+    "mots": 485,
+    "jlisi": 12.6,
+    "kandel_moles": 66.8,
+    "etoiles": 7
   },
   {
     "numero": 31,
@@ -3810,7 +3930,11 @@
         ],
         "reponse": 2
       }
-    ]
+    ],
+    "mots": 560,
+    "jlisi": 10.8,
+    "kandel_moles": 69.9,
+    "etoiles": 5
   },
   {
     "numero": 32,
@@ -3933,7 +4057,11 @@
         ],
         "reponse": 0
       }
-    ]
+    ],
+    "mots": 491,
+    "jlisi": 9.2,
+    "kandel_moles": 78.4,
+    "etoiles": 4
   },
   {
     "numero": 33,
@@ -4056,7 +4184,11 @@
         ],
         "reponse": 1
       }
-    ]
+    ],
+    "mots": 520,
+    "jlisi": 8.2,
+    "kandel_moles": 77.7,
+    "etoiles": 3
   },
   {
     "numero": 34,
@@ -4179,7 +4311,11 @@
         ],
         "reponse": 2
       }
-    ]
+    ],
+    "mots": 539,
+    "jlisi": 9.8,
+    "kandel_moles": 80.1,
+    "etoiles": 4
   },
   {
     "numero": 35,
@@ -4302,7 +4438,11 @@
         ],
         "reponse": 2
       }
-    ]
+    ],
+    "mots": 445,
+    "jlisi": 10.2,
+    "kandel_moles": 72.1,
+    "etoiles": 5
   },
   {
     "numero": 36,
@@ -4425,7 +4565,11 @@
         ],
         "reponse": 2
       }
-    ]
+    ],
+    "mots": 505,
+    "jlisi": 10.9,
+    "kandel_moles": 73.5,
+    "etoiles": 5
   },
   {
     "numero": 37,
@@ -4548,7 +4692,11 @@
         ],
         "reponse": 1
       }
-    ]
+    ],
+    "mots": 577,
+    "jlisi": 7.5,
+    "kandel_moles": 76.6,
+    "etoiles": 3
   },
   {
     "numero": 38,
@@ -4671,7 +4819,11 @@
         ],
         "reponse": 2
       }
-    ]
+    ],
+    "mots": 546,
+    "jlisi": 11.5,
+    "kandel_moles": 68.5,
+    "etoiles": 6
   },
   {
     "numero": 39,
@@ -4794,7 +4946,11 @@
         ],
         "reponse": 2
       }
-    ]
+    ],
+    "mots": 546,
+    "jlisi": 11,
+    "kandel_moles": 68.8,
+    "etoiles": 6
   },
   {
     "numero": 40,
@@ -4917,7 +5073,11 @@
         ],
         "reponse": 1
       }
-    ]
+    ],
+    "mots": 503,
+    "jlisi": 12.4,
+    "kandel_moles": 71.5,
+    "etoiles": 7
   },
   {
     "numero": 41,
@@ -5040,7 +5200,11 @@
         ],
         "reponse": 2
       }
-    ]
+    ],
+    "mots": 554,
+    "jlisi": 11.7,
+    "kandel_moles": 69,
+    "etoiles": 6
   },
   {
     "numero": 42,
@@ -5163,7 +5327,11 @@
         ],
         "reponse": 2
       }
-    ]
+    ],
+    "mots": 627,
+    "jlisi": 13.2,
+    "kandel_moles": 65.3,
+    "etoiles": 8
   },
   {
     "numero": 43,
@@ -5286,7 +5454,11 @@
         ],
         "reponse": 0
       }
-    ]
+    ],
+    "mots": 573,
+    "jlisi": 13.6,
+    "kandel_moles": 72.3,
+    "etoiles": 8
   },
   {
     "numero": 44,
@@ -5409,7 +5581,11 @@
         ],
         "reponse": 0
       }
-    ]
+    ],
+    "mots": 559,
+    "jlisi": 11.4,
+    "kandel_moles": 76.5,
+    "etoiles": 6
   },
   {
     "numero": 45,
@@ -5532,7 +5708,11 @@
         ],
         "reponse": 2
       }
-    ]
+    ],
+    "mots": 597,
+    "jlisi": 9.1,
+    "kandel_moles": 72.8,
+    "etoiles": 4
   },
   {
     "numero": 46,
@@ -5655,7 +5835,11 @@
         ],
         "reponse": 1
       }
-    ]
+    ],
+    "mots": 655,
+    "jlisi": 19.9,
+    "kandel_moles": 52.7,
+    "etoiles": 11
   },
   {
     "numero": 47,
@@ -5778,7 +5962,11 @@
         ],
         "reponse": 1
       }
-    ]
+    ],
+    "mots": 544,
+    "jlisi": 13,
+    "kandel_moles": 65.9,
+    "etoiles": 8
   },
   {
     "numero": 48,
@@ -5901,7 +6089,11 @@
         ],
         "reponse": 1
       }
-    ]
+    ],
+    "mots": 568,
+    "jlisi": 14,
+    "kandel_moles": 61.8,
+    "etoiles": 8
   },
   {
     "numero": 49,
@@ -6024,7 +6216,11 @@
         ],
         "reponse": 1
       }
-    ]
+    ],
+    "mots": 634,
+    "jlisi": 17.6,
+    "kandel_moles": 55.5,
+    "etoiles": 10
   },
   {
     "numero": 50,
@@ -6147,7 +6343,11 @@
         ],
         "reponse": 2
       }
-    ]
+    ],
+    "mots": 665,
+    "jlisi": 19.3,
+    "kandel_moles": 47.3,
+    "etoiles": 11
   },
   {
     "numero": 51,
@@ -6270,7 +6470,11 @@
         ],
         "reponse": 1
       }
-    ]
+    ],
+    "mots": 647,
+    "jlisi": 14.3,
+    "kandel_moles": 59.6,
+    "etoiles": 8
   },
   {
     "numero": 52,
@@ -6393,7 +6597,11 @@
         ],
         "reponse": 1
       }
-    ]
+    ],
+    "mots": 644,
+    "jlisi": 13.2,
+    "kandel_moles": 65.2,
+    "etoiles": 8
   },
   {
     "numero": 53,
@@ -6516,7 +6724,11 @@
         ],
         "reponse": 1
       }
-    ]
+    ],
+    "mots": 715,
+    "jlisi": 15.4,
+    "kandel_moles": 71.7,
+    "etoiles": 9
   },
   {
     "numero": 54,
@@ -6639,7 +6851,11 @@
         ],
         "reponse": 2
       }
-    ]
+    ],
+    "mots": 631,
+    "jlisi": 12.9,
+    "kandel_moles": 68.9,
+    "etoiles": 7
   },
   {
     "numero": 55,
@@ -6762,7 +6978,11 @@
         ],
         "reponse": 2
       }
-    ]
+    ],
+    "mots": 615,
+    "jlisi": 12.2,
+    "kandel_moles": 71.9,
+    "etoiles": 7
   },
   {
     "numero": 56,
@@ -6885,7 +7105,11 @@
         ],
         "reponse": 1
       }
-    ]
+    ],
+    "mots": 567,
+    "jlisi": 11.1,
+    "kandel_moles": 69.5,
+    "etoiles": 6
   },
   {
     "numero": 57,
@@ -7008,7 +7232,11 @@
         ],
         "reponse": 1
       }
-    ]
+    ],
+    "mots": 369,
+    "jlisi": 12.8,
+    "kandel_moles": 71.3,
+    "etoiles": 7
   },
   {
     "numero": 58,
@@ -7131,7 +7359,11 @@
         ],
         "reponse": 1
       }
-    ]
+    ],
+    "mots": 359,
+    "jlisi": 13,
+    "kandel_moles": 70.7,
+    "etoiles": 8
   },
   {
     "numero": 59,
@@ -7254,7 +7486,11 @@
         ],
         "reponse": 1
       }
-    ]
+    ],
+    "mots": 430,
+    "jlisi": 8.9,
+    "kandel_moles": 74.4,
+    "etoiles": 3
   },
   {
     "numero": 60,
@@ -7377,7 +7613,11 @@
         ],
         "reponse": 1
       }
-    ]
+    ],
+    "mots": 561,
+    "jlisi": 9.5,
+    "kandel_moles": 75.1,
+    "etoiles": 4
   },
   {
     "numero": 61,
@@ -7500,7 +7740,11 @@
         ],
         "reponse": 1
       }
-    ]
+    ],
+    "mots": 493,
+    "jlisi": 11.6,
+    "kandel_moles": 76.6,
+    "etoiles": 6
   },
   {
     "numero": 62,
@@ -7623,7 +7867,11 @@
         ],
         "reponse": 0
       }
-    ]
+    ],
+    "mots": 593,
+    "jlisi": 10.1,
+    "kandel_moles": 64.9,
+    "etoiles": 5
   },
   {
     "numero": 63,
@@ -7746,7 +7994,11 @@
         ],
         "reponse": 0
       }
-    ]
+    ],
+    "mots": 534,
+    "jlisi": 9.5,
+    "kandel_moles": 83.5,
+    "etoiles": 4
   },
   {
     "numero": 64,
@@ -7869,6 +8121,10 @@
         ],
         "reponse": 0
       }
-    ]
+    ],
+    "mots": 595,
+    "jlisi": 8.8,
+    "kandel_moles": 79.3,
+    "etoiles": 3
   }
 ]
