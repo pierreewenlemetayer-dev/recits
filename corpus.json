@@ -8126,5 +8126,132 @@
     "jlisi": 8.8,
     "kandel_moles": 79.3,
     "etoiles": 3
+  },
+  {
+    "numero": 65,
+    "titre": "Le chien qui attendait",
+    "texte": "Chaque matin, Lou allait au collège à pied. Sur le chemin, elle croisait souvent un homme et son vieux chien brun. L'homme s'appelait Monsieur Vidal. Son chien, Oscar, marchait lentement à côté de lui.\n\nDepuis quelques jours, Lou avait remarqué une chose étrange. Devant une petite librairie fermée pour travaux, Oscar s'arrêtait toujours. Il posait son nez contre la porte et remuait la queue. Puis il s'asseyait sur le trottoir.\n\nMonsieur Vidal tirait doucement sur la laisse.\n\n— Allez, Oscar ! Il faut rentrer.\n\nMais le chien ne bougeait pas. Son maître devait attendre plusieurs minutes avant de pouvoir repartir.\n\nUn mardi matin, Lou vit Oscar avec une balle rouge dans la gueule. Arrivé devant la librairie, le chien posa sa balle sur le sol. Puis il regarda la porte.\n\nLou s'approcha.\n\n— Pourquoi fait-il ça ? demanda-t-elle.\n\n— Il attend une amie, répondit Monsieur Vidal.\n\n— Une amie ?\n\n— Oui, une chienne qui s'appelle Bella. Elle appartient à la libraire. Avant les travaux, nous venions souvent ici. Oscar et Bella jouaient ensemble dans la petite cour derrière la boutique.\n\nLou regarda la balle rouge. Elle comprenait mieux.\n\n— Et où est Bella maintenant ?\n\n— Je ne sais pas. La libraire a fermé sa boutique il y a trois semaines.\n\nLou partit au collège en pensant aux deux chiens.\n\nLe lendemain, elle passa devant la librairie. Sur la vitrine, une affiche annonçait que la libraire vendait désormais ses livres au marché du samedi. Une adresse était écrite en bas.\n\nLe soir, Lou retrouva Monsieur Vidal dans la rue.\n\n— Je sais où travaille la libraire ! dit-elle.\n\nElle lui montra l'affiche.\n\n— Alors nous irons samedi, répondit-il avec un sourire.\n\nLe samedi matin, Lou accompagna Monsieur Vidal au marché. Oscar marchait devant eux. Il portait sa balle rouge.\n\nIls trouvèrent la libraire près d'une grande table couverte de livres. À ses pieds dormait une petite chienne blanche.\n\nOscar s'arrêta net. Puis il tira sur sa laisse.\n\n— Bella ! appela la libraire.\n\nLa chienne leva la tête. Dès qu'elle vit Oscar, elle courut vers lui.\n\nLes deux chiens se mirent à tourner l'un autour de l'autre. Oscar posa sa balle sur le sol. Bella la prit et partit en courant. Oscar la suivit, aussi vite que ses vieilles pattes le permettaient.\n\nLou éclata de rire.\n\n— Je crois qu'il est content !\n\n— Moi aussi, répondit Monsieur Vidal.\n\nDepuis ce jour, chaque samedi, Oscar retrouvait Bella au marché.\n\nEt le lundi matin, devant la librairie fermée, il ne s'arrêtait plus.",
+    "origine": "ia",
+    "auteur": null,
+    "oeuvre": null,
+    "date_parution": null,
+    "traducteur": null,
+    "statut_juridique": null,
+    "qcm": [
+      {
+        "numero": 1,
+        "question": "Qui est Oscar ?",
+        "options": [
+          "Un chien qui vit dans la librairie.",
+          "Un vieux chien brun qui appartient à Monsieur Vidal.",
+          "Un chien que Lou trouve seul dans la rue.",
+          "Un jeune chien qui accompagne Lou au collège."
+        ],
+        "reponse": 1
+      },
+      {
+        "numero": 2,
+        "question": "Que fait Oscar chaque fois qu'il passe devant la librairie ?",
+        "options": [
+          "Il aboie contre les passants.",
+          "Il cherche à entrer par une fenêtre.",
+          "Il s'arrête et refuse d'avancer.",
+          "Il court vers la cour derrière la boutique."
+        ],
+        "reponse": 2
+      },
+      {
+        "numero": 3,
+        "question": "Pourquoi la librairie est-elle fermée ?",
+        "options": [
+          "Parce que la libraire est malade.",
+          "Parce qu'elle a été vendue.",
+          "Parce que les livres ont été volés.",
+          "Parce que des travaux sont en cours."
+        ],
+        "reponse": 3
+      },
+      {
+        "numero": 4,
+        "question": "Que dépose Oscar devant la porte de la librairie ?",
+        "options": [
+          "Une balle rouge.",
+          "Un morceau de bois.",
+          "Un vieux biscuit.",
+          "Sa laisse."
+        ],
+        "reponse": 0
+      },
+      {
+        "numero": 5,
+        "question": "Qui est Bella ?",
+        "options": [
+          "La fille de Monsieur Vidal.",
+          "Une amie de Lou.",
+          "La chienne de la libraire.",
+          "Une chienne qui vit au marché."
+        ],
+        "reponse": 2
+      },
+      {
+        "numero": 6,
+        "question": "Que faisaient Oscar et Bella avant la fermeture de la librairie ?",
+        "options": [
+          "Ils dormaient ensemble devant la vitrine.",
+          "Ils jouaient dans la cour derrière la boutique.",
+          "Ils accompagnaient la libraire au marché.",
+          "Ils se promenaient seuls dans les rues."
+        ],
+        "reponse": 1
+      },
+      {
+        "numero": 7,
+        "question": "Comment Lou découvre-t-elle où travaille désormais la libraire ?",
+        "options": [
+          "Elle lit une affiche sur la vitrine.",
+          "Elle téléphone à la mairie.",
+          "Elle interroge les personnes du marché.",
+          "Monsieur Vidal lui donne l'adresse."
+        ],
+        "reponse": 0
+      },
+      {
+        "numero": 8,
+        "question": "Quand Lou et Monsieur Vidal emmènent-ils Oscar au marché ?",
+        "options": [
+          "Le mardi matin.",
+          "Le mercredi après-midi.",
+          "Le vendredi soir.",
+          "Le samedi matin."
+        ],
+        "reponse": 3
+      },
+      {
+        "numero": 9,
+        "question": "Comment Bella réagit-elle lorsqu'elle voit Oscar ?",
+        "options": [
+          "Elle se cache sous la table.",
+          "Elle court vers lui.",
+          "Elle continue à dormir.",
+          "Elle se met à aboyer contre lui."
+        ],
+        "reponse": 1
+      },
+      {
+        "numero": 10,
+        "question": "Pourquoi Oscar déposait-il sa balle devant la librairie ?",
+        "options": [
+          "Il voulait que Monsieur Vidal la ramasse.",
+          "Il avait peur de la perdre pendant sa promenade.",
+          "Il espérait retrouver Bella pour jouer avec elle.",
+          "Il voulait offrir sa balle à Lou."
+        ],
+        "reponse": 2
+      }
+    ],
+    "mots": 403,
+    "jlisi": 4.9,
+    "kandel_moles": 92.3,
+    "etoiles": 1
   }
 ]
