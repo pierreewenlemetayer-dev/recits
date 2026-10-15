@@ -8253,5 +8253,139 @@
     "jlisi": 4.9,
     "kandel_moles": 92.3,
     "etoiles": 1
+  },
+  {
+    "numero": 66,
+    "titre": "La dernière réparation",
+    "texte": "Camille adorait faire du vélo. Chaque mercredi, elle retrouvait ses amis pour rouler dans le quartier. Mais son vieux vélo avait un problème : la chaîne déraillait souvent.\n\nUn samedi, une course était organisée dans le parc. Camille voulait y participer depuis longtemps. Malheureusement, trois jours avant la course, la chaîne dérailla encore. Cette fois, impossible de la remettre en place.\n\nCamille poussa son vélo jusqu'à la maison de Nora, sa voisine. Nora réparait des vélos dans un atelier.\n\n— Tu peux regarder mon vélo ? demanda Camille.\n\n— Bien sûr. Entre !\n\nNora posa le vélo sur un support. Elle tourna les pédales et observa les roues dentées.\n\n— Je crois que cette pièce est trop usée, expliqua-t-elle. Il faut la changer.\n\n— Tu en as une autre ?\n\n— Non, mais je sais où nous pouvons chercher.\n\nLe lendemain, Nora emmena Camille dans un atelier associatif. Des personnes y réparaient de vieux vélos. Dans un coin, plusieurs cadres et roues étaient rangés contre le mur.\n\nNora demanda au responsable si elles pouvaient récupérer une pièce sur un vélo hors d'usage. Il accepta et leur montra un modèle qui convenait.\n\n— Tu veux essayer de la démonter ? proposa Nora.\n\nCamille hésita, puis prit les outils. Nora expliqua chaque geste. Il fallut du temps, mais Camille réussit à retirer la pièce.\n\nDe retour chez Nora, elles commencèrent la réparation. Camille installa la nouvelle pièce et remit la chaîne en place. Puis Nora lui demanda de tourner les pédales.\n\nCette fois, la chaîne resta en place.\n\n— Tu as réussi ! dit Nora.\n\nLe samedi, Camille arriva au parc avec son vélo réparé. Au départ, son cœur battait très vite. Quand le signal fut donné, les enfants partirent ensemble.\n\nCamille pédala de toutes ses forces. Plusieurs enfants passèrent devant elle, mais le vélo avançait sans problème. Camille termina la course, fatiguée, mais heureuse.\n\nÀ l'arrivée, Nora attendait près de la ligne.\n\n— Alors, cette course ?\n\n— Je n'ai pas gagné, mais mon vélo a tenu !\n\n— Tu crois que je pourrais revenir à l'atelier ? demanda Camille.\n\n— Pour réparer ton vélo ?\n\n— Non. Pour apprendre à réparer ceux des autres.\n\nNora sourit.\n\n— Avec plaisir !",
+    "origine": "ia",
+    "auteur": null,
+    "oeuvre": null,
+    "date_parution": null,
+    "traducteur": null,
+    "statut_juridique": null,
+    "mots": 346,
+    "jlisi": 8.7,
+    "kandel_moles": 94.4,
+    "etoiles": 3,
+    "mots_cles": [
+      "Course",
+      "Réparation",
+      "Entraide",
+      "Enfance",
+      "Apprentissage"
+    ],
+    "qcm": [
+      {
+        "numero": 1,
+        "question": "Quel problème rencontre Camille avec son vélo ?",
+        "options": [
+          "Les freins ne fonctionnent plus.",
+          "La chaîne déraille souvent.",
+          "Une roue est crevée.",
+          "Les pédales sont bloquées."
+        ],
+        "reponse": 1
+      },
+      {
+        "numero": 2,
+        "question": "À quel événement Camille souhaite-t-elle participer ?",
+        "options": [
+          "Une promenade dans la forêt.",
+          "Une compétition dans son quartier.",
+          "Une course dans le parc.",
+          "Une randonnée avec ses amis."
+        ],
+        "reponse": 2
+      },
+      {
+        "numero": 3,
+        "question": "Qui est Nora ?",
+        "options": [
+          "La voisine de Camille.",
+          "La responsable de la course.",
+          "La sœur de Camille.",
+          "Une amie de son école."
+        ],
+        "reponse": 0
+      },
+      {
+        "numero": 4,
+        "question": "Pourquoi Nora ne peut-elle pas remplacer immédiatement la pièce usée ?",
+        "options": [
+          "Elle ne possède pas les bons outils.",
+          "Elle ne sait pas comment la démonter.",
+          "Elle doit d'abord réparer un autre vélo.",
+          "Elle n'a pas de pièce de rechange."
+        ],
+        "reponse": 3
+      },
+      {
+        "numero": 5,
+        "question": "Où Nora emmène-t-elle Camille pour trouver une pièce ?",
+        "options": [
+          "Dans un magasin de sport.",
+          "Dans un garage automobile.",
+          "Dans un atelier associatif.",
+          "Dans une déchetterie."
+        ],
+        "reponse": 2
+      },
+      {
+        "numero": 6,
+        "question": "Comment Nora et Camille trouvent-elles la pièce nécessaire ?",
+        "options": [
+          "Elles en commandent une neuve.",
+          "Le responsable leur en offre une neuve.",
+          "Elles la récupèrent sur un vélo hors d'usage.",
+          "Elles la fabriquent avec des outils."
+        ],
+        "reponse": 2
+      },
+      {
+        "numero": 7,
+        "question": "Quelle opération Camille apprend-elle à effectuer en premier ?",
+        "options": [
+          "Démonter une pièce.",
+          "Gonfler les pneus.",
+          "Régler les freins.",
+          "Nettoyer la chaîne."
+        ],
+        "reponse": 0
+      },
+      {
+        "numero": 8,
+        "question": "Comment se termine la course pour Camille ?",
+        "options": [
+          "Elle abandonne avant l'arrivée.",
+          "Elle remporte la première place.",
+          "Son vélo tombe de nouveau en panne.",
+          "Elle termine la course sans gagner."
+        ],
+        "reponse": 3
+      },
+      {
+        "numero": 9,
+        "question": "Comment Camille se sent-elle après la course ?",
+        "options": [
+          "Elle est déçue et en colère.",
+          "Elle est fatiguée, mais heureuse.",
+          "Elle est inquiète pour son vélo.",
+          "Elle est triste d'avoir perdu."
+        ],
+        "reponse": 1
+      },
+      {
+        "numero": 10,
+        "question": "Pourquoi Camille souhaite-t-elle retourner à l'atelier ?",
+        "options": [
+          "Pour participer à une autre course.",
+          "Pour acheter un nouveau vélo.",
+          "Pour apprendre à réparer les vélos des autres.",
+          "Pour retrouver ses amis."
+        ],
+        "reponse": 2
+      }
+    ]
   }
 ]
