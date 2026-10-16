@@ -8387,5 +8387,139 @@
         "reponse": 2
       }
     ]
+  },
+  {
+    "numero": 67,
+    "titre": "Le cadeau oublié",
+    "texte": "Chaque année, le village organisait une fête au début du mois de juin. On installait des tables sur la place, on accrochait des lampes aux arbres et les enfants préparaient des jeux.\n\nCette année, Sami avait une mission. Il devait apporter un cadeau à Madame Rose, une vieille dame qui vivait près de l'école. Elle avait aidé les enfants à préparer la fête. Pour la remercier, ils avaient fabriqué un grand album avec des dessins et des petits mots.\n\nLe samedi matin, Sami posa l'album sur la table de la cuisine. Sa mère lui demanda de ranger sa chambre avant de partir.\n\n— Dépêche-toi, Sami ! Nous allons être en retard.\n\nSami monta dans sa chambre. Il ramassa ses vêtements, rangea ses livres et retrouva même une petite voiture perdue depuis longtemps.\n\nQuand il redescendit, sa mère l'attendait devant la porte.\n\n— Tu es prêt ?\n\n— Oui !\n\nIls partirent ensemble.\n\nSur la place du village, la fête avait déjà commencé. Des enfants couraient entre les tables. Une femme vendait des gâteaux. Près de la fontaine, un groupe jouait de la musique.\n\nSami retrouva ses amis devant l'école.\n\n— Tu as l'album ? demanda Jade.\n\nSami ouvrit son sac. Il chercha dans la grande poche, puis dans la petite. Il regarda encore une fois.\n\nL'album n'était pas là.\n\n— Je l'ai oublié à la maison !\n\nJade regarda l'horloge de l'école.\n\n— Madame Rose arrive dans vingt minutes.\n\nSami sentit son cœur battre plus vite.\n\n— Je vais le chercher !\n\n— Je viens avec toi, répondit Jade.\n\nLes deux enfants partirent en courant. Au bout de la rue, Jade montra un petit chemin.\n\n— Par là, nous irons plus vite !\n\nSami ne connaissait pas ce chemin, mais il suivit son amie.\n\nIls passèrent entre deux jardins, puis arrivèrent devant un grand portail fermé.\n\n— Oh non ! dit Jade. Je croyais que le chemin continuait !\n\nIls durent faire demi-tour.\n\n— Nous n'aurons jamais le temps ! dit Sami.\n\n— Si, répondit Jade. Mais il faut se dépêcher !\n\nIls reprirent la rue principale et coururent jusqu'à la maison.\n\nSami entra, prit l'album sur la table et ressortit aussitôt.\n\nQuand ils revinrent sur la place, Madame Rose venait d'arriver.\n\nSami reprit son souffle, puis lui tendit le cadeau.\n\nLa vieille dame ouvrit l'album. Elle regarda les dessins, lut plusieurs messages et sourit.\n\n— Vous avez fait tout cela pour moi ?\n\n— Oui, répondit Sami.\n\nMadame Rose tourna encore quelques pages. Ses yeux brillaient.\n\n— C'est le plus beau cadeau de ma journée.\n\nJade donna un petit coup de coude à Sami.\n\n— Tu vois ? Nous sommes arrivés à temps !\n\nSami sourit.\n\n— Oui. Mais la prochaine fois, je préparerai mon sac la veille !",
+    "origine": "ia",
+    "auteur": null,
+    "oeuvre": null,
+    "date_parution": null,
+    "traducteur": null,
+    "statut_juridique": null,
+    "mots": 428,
+    "jlisi": 6.2,
+    "kandel_moles": 96.1,
+    "etoiles": 4,
+    "mots_cles": [
+      "Enfance",
+      "Amitié",
+      "Solidarité",
+      "Fête",
+      "Oubli"
+    ],
+    "qcm": [
+      {
+        "numero": 1,
+        "question": "Pourquoi les enfants ont-ils fabriqué un album pour Madame Rose ?",
+        "options": [
+          "Pour lui souhaiter son anniversaire.",
+          "Pour la remercier de son aide.",
+          "Pour lui présenter leur école.",
+          "Pour lui raconter leurs vacances."
+        ],
+        "reponse": 1
+      },
+      {
+        "numero": 2,
+        "question": "Que demande la mère de Sami avant leur départ ?",
+        "options": [
+          "De préparer un gâteau.",
+          "De terminer ses devoirs.",
+          "De retrouver ses chaussures.",
+          "De ranger sa chambre."
+        ],
+        "reponse": 3
+      },
+      {
+        "numero": 3,
+        "question": "Où Sami a-t-il laissé l'album ?",
+        "options": [
+          "Sur la table de la cuisine.",
+          "Dans sa chambre.",
+          "Devant l'école.",
+          "Chez Jade."
+        ],
+        "reponse": 0
+      },
+      {
+        "numero": 4,
+        "question": "Comment Sami découvre-t-il qu'il a oublié l'album ?",
+        "options": [
+          "Sa mère le lui annonce.",
+          "Madame Rose le lui demande.",
+          "Il cherche dans son sac.",
+          "Jade retourne à la maison."
+        ],
+        "reponse": 2
+      },
+      {
+        "numero": 5,
+        "question": "Pourquoi Sami doit-il se dépêcher de récupérer l'album ?",
+        "options": [
+          "Sa mère doit partir travailler.",
+          "Madame Rose va bientôt arriver.",
+          "La fête va se terminer.",
+          "Son école va fermer."
+        ],
+        "reponse": 1
+      },
+      {
+        "numero": 6,
+        "question": "Pourquoi Jade et Sami doivent-ils faire demi-tour ?",
+        "options": [
+          "Ils ont oublié le chemin de la maison.",
+          "Ils rencontrent un chien menaçant.",
+          "Ils se trompent de maison.",
+          "Le chemin se termine devant un portail fermé."
+        ],
+        "reponse": 3
+      },
+      {
+        "numero": 7,
+        "question": "Quelle qualité Jade montre-t-elle en accompagnant Sami ?",
+        "options": [
+          "La solidarité.",
+          "La prudence.",
+          "La curiosité.",
+          "La discrétion."
+        ],
+        "reponse": 0
+      },
+      {
+        "numero": 8,
+        "question": "À quel moment les deux enfants reviennent-ils sur la place ?",
+        "options": [
+          "Avant le début de la fête.",
+          "Pendant le discours du maire.",
+          "Au moment où Madame Rose vient d'arriver.",
+          "Après le départ de Madame Rose."
+        ],
+        "reponse": 2
+      },
+      {
+        "numero": 9,
+        "question": "Quel détail montre que Madame Rose est émue par le cadeau ?",
+        "options": [
+          "Elle referme immédiatement l'album.",
+          "Ses yeux brillent.",
+          "Elle appelle les autres enfants.",
+          "Elle se met à applaudir."
+        ],
+        "reponse": 1
+      },
+      {
+        "numero": 10,
+        "question": "Que comprend-on grâce à la dernière phrase de Sami ?",
+        "options": [
+          "Il ne veut plus participer à la fête.",
+          "Il préfère laisser Jade porter les cadeaux.",
+          "Il pense que sa mère aurait dû l'aider.",
+          "Il veut mieux s'organiser à l'avenir."
+        ],
+        "reponse": 3
+      }
+    ]
   }
 ]
