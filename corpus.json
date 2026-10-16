@@ -8521,5 +8521,139 @@
         "reponse": 3
       }
     ]
+  },
+  {
+    "numero": 68,
+    "titre": "Le petit bateau",
+    "texte": "Chaque dimanche, Léo allait au bord du lac avec son grand-père. Ils marchaient sur un petit chemin, puis ils s'arrêtaient près d'un vieux pont. Là, ils regardaient les oiseaux et les bateaux.\n\nUn matin, Léo trouva un petit bateau rouge sur le sable. Il était en bois, avec une voile blanche et un fil attaché à l'avant.\n\n— Regarde, papi ! Il est beau !\n\nSon grand-père prit le bateau dans sa main.\n\n— Oui, mais il doit être à quelqu'un.\n\nLéo regarda autour de lui. Il n'y avait personne.\n\n— On peut le garder ?\n\n— Pas encore. Nous allons chercher son propriétaire.\n\nIls posèrent le bateau sur un banc, bien en vue. Puis ils attendirent. Un homme passa avec son chien. Une femme arriva avec deux enfants. Mais personne ne demanda le bateau.\n\nLéo commençait à avoir faim.\n\n— On rentre, papi ?\n\n— Dans un moment. Regarde là-bas.\n\nPrès du pont, une petite fille cherchait quelque chose dans l'herbe. Elle se baissait, se relevait, puis regardait dans l'eau.\n\nLéo courut vers elle.\n\n— Tu as perdu quelque chose ?\n\n— Oui, mon bateau. Il est rouge, avec une voile blanche.\n\n— Je crois que nous l'avons trouvé !\n\nLa petite fille leva la tête.\n\n— C'est vrai ?\n\nLéo lui montra le banc. Elle partit en courant et prit le bateau dans ses bras.\n\n— Merci ! Je le cherche depuis ce matin !\n\nElle s'appelait Inès. Elle venait souvent au lac avec son père. Ce jour-là, le vent avait poussé son bateau loin du bord. Le fil lui avait échappé des mains, et elle avait perdu le bateau de vue.\n\n— Tu veux jouer avec moi ? demanda Inès.\n\nLéo regarda son grand-père. Celui-ci lui fit un signe de la tête.\n\n— Oui, mais je ne sais pas faire avancer un bateau.\n\n— Je vais te montrer !\n\nIls descendirent près de l'eau. Inès posa le bateau sur le lac. Léo tenait le fil pendant qu'elle poussait doucement la voile.\n\nLe bateau avança, puis tourna sur lui-même. Les deux enfants éclatèrent de rire.\n\nUn peu plus tard, le grand-père les appela.\n\n— Léo, il est temps de rentrer !\n\nLéo rendit le fil à Inès.\n\n— Tu reviens dimanche prochain ?\n\n— Oui ! répondit-elle. Et toi ?\n\n— Moi aussi !\n\nSur le chemin du retour, Léo souriait.\n\n— Tu vois, papi, nous avons bien fait de chercher à qui était le bateau.\n\nSon grand-père lui prit la main.\n\n— Et tu as trouvé une amie !\n\nLéo regarda une dernière fois le lac.\n\n— Dimanche prochain, je vais demander à papa de m'aider à faire un bateau. Comme ça, nous pourrons faire une course !",
+    "origine": "ia",
+    "auteur": null,
+    "oeuvre": null,
+    "date_parution": null,
+    "traducteur": null,
+    "statut_juridique": null,
+    "mots": 412,
+    "jlisi": 3.9,
+    "kandel_moles": 104.6,
+    "etoiles": 3,
+    "mots_cles": [
+      "Enfance",
+      "Amitié",
+      "Solidarité",
+      "Nature",
+      "Découverte"
+    ],
+    "qcm": [
+      {
+        "numero": 1,
+        "question": "Où Léo se promène-t-il chaque dimanche avec son grand-père ?",
+        "options": [
+          "Dans un grand jardin.",
+          "Au bord de la mer.",
+          "Au bord du lac.",
+          "Dans une forêt."
+        ],
+        "reponse": 2
+      },
+      {
+        "numero": 2,
+        "question": "Comment est le bateau que Léo trouve ?",
+        "options": [
+          "Rouge, avec une voile blanche.",
+          "Bleu, avec une voile rouge.",
+          "Blanc, avec une voile jaune.",
+          "Vert, avec une voile bleue."
+        ],
+        "reponse": 0
+      },
+      {
+        "numero": 3,
+        "question": "Pourquoi le grand-père refuse-t-il de garder immédiatement le bateau ?",
+        "options": [
+          "Il pense que le bateau est cassé.",
+          "Il trouve le bateau trop petit.",
+          "Il ne veut pas le porter.",
+          "Il pense qu'il appartient à quelqu'un."
+        ],
+        "reponse": 3
+      },
+      {
+        "numero": 4,
+        "question": "Que font Léo et son grand-père en attendant de retrouver la personne qui a perdu le bateau ?",
+        "options": [
+          "Ils le déposent dans l'eau.",
+          "Ils le posent sur un banc.",
+          "Ils le cachent sous le pont.",
+          "Ils l'apportent chez eux."
+        ],
+        "reponse": 1
+      },
+      {
+        "numero": 5,
+        "question": "Qu'est-ce qui attire leur attention près du pont ?",
+        "options": [
+          "Une petite fille qui cherche quelque chose.",
+          "Un homme qui répare un bateau.",
+          "Un chien qui joue dans l'eau.",
+          "Un enfant qui appelle son père."
+        ],
+        "reponse": 0
+      },
+      {
+        "numero": 6,
+        "question": "Comment Inès a-t-elle perdu son bateau ?",
+        "options": [
+          "Elle l'a oublié sur un banc.",
+          "Un autre enfant l'a emporté.",
+          "Le vent l'a poussé loin du bord et le fil lui a échappé.",
+          "Il est tombé de son sac pendant une promenade."
+        ],
+        "reponse": 2
+      },
+      {
+        "numero": 7,
+        "question": "Que propose Inès à Léo après avoir retrouvé son bateau ?",
+        "options": [
+          "De rentrer avec elle.",
+          "De jouer avec elle.",
+          "De chercher un autre bateau.",
+          "De traverser le pont."
+        ],
+        "reponse": 1
+      },
+      {
+        "numero": 8,
+        "question": "Pourquoi les deux enfants éclatent-ils de rire ?",
+        "options": [
+          "Le grand-père raconte une histoire amusante.",
+          "Le bateau tombe au fond du lac.",
+          "Un oiseau se pose sur la voile.",
+          "Le bateau avance puis tourne sur lui-même."
+        ],
+        "reponse": 3
+      },
+      {
+        "numero": 9,
+        "question": "Que souhaite Léo pour le dimanche suivant ?",
+        "options": [
+          "Faire un bateau pour jouer avec Inès.",
+          "Acheter un grand bateau.",
+          "Aller se promener ailleurs.",
+          "Apprendre à nager avec son grand-père."
+        ],
+        "reponse": 0
+      },
+      {
+        "numero": 10,
+        "question": "Qu'a gagné Léo en aidant à retrouver le bateau ?",
+        "options": [
+          "Un nouveau jouet.",
+          "Une récompense.",
+          "Une nouvelle amie.",
+          "Une place dans une course."
+        ],
+        "reponse": 2
+      }
+    ]
   }
 ]
