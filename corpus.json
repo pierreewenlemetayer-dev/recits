@@ -8655,5 +8655,139 @@
         "reponse": 2
       }
     ]
+  },
+  {
+    "numero": 69,
+    "titre": "La boîte sous le lit",
+    "texte": "Ce matin, Nina cherche son livre. Elle regarde sur la table. Elle regarde dans son sac. Mais le livre n'est pas là.\n\n— Où est mon livre ? demande-t-elle.\n\nSon frère Tom entre dans la chambre.\n\n— Que cherches-tu ?\n\n— Mon livre. Je ne le trouve plus.\n\nTom regarde près de la porte. Il regarde sous la table. Puis il voit une boîte sous le lit.\n\n— Et dans cette boîte ?\n\n— Je ne sais pas, dit Nina.\n\nTom tire la boîte. Elle est pleine de petits jeux, de feuilles et de vieux dessins.\n\nNina s'assoit près de lui.\n\n— Oh ! Regarde ce dessin !\n\nSur la feuille, il y a une maison, un arbre et un grand soleil.\n\n— C'est toi qui as fait ça ? demande Tom.\n\n— Oui ! Quand j'étais petite.\n\nTom prend une autre feuille.\n\n— Et ça ?\n\nNina regarde le dessin. On voit deux enfants dans un jardin. L'un porte un ballon. L'autre tient un livre.\n\n— C'est nous deux ! dit-elle.\n\nTom rit.\n\n— Tu avais fait mon nez très grand !\n\nNina rit aussi.\n\nIls regardent encore les dessins. Puis Tom trouve une petite photo.\n\n— Regarde ! Nous sommes avec papa et maman.\n\nSur la photo, ils sont tous les quatre près de la mer. Nina tient un petit bateau. Tom est assis sur le sable.\n\n— Je me souviens de ce jour, dit Nina. Il faisait très beau.\n\n— Et moi, je voulais aller dans l'eau !\n\nNina pose la photo sur la table.\n\n— Il faut la montrer à papa et maman.\n\nTom remet les dessins dans la boîte.\n\n— Mais ton livre ? demande-t-il.\n\nNina regarde autour d'elle.\n\n— Ah oui ! Mon livre !\n\nElle cherche encore. Elle ouvre son sac une seconde fois. Puis elle voit un coin de papier sous son lit.\n\nElle se baisse et tire le livre.\n\n— Le voilà !\n\nTom sourit.\n\n— Tu l'avais mis sous le lit !\n\n— Oui, mais sans le faire exprès.\n\nNina prend son livre. Puis elle regarde la boîte.\n\n— Nous avons trouvé bien plus qu'un livre.\n\n— Quoi donc ? demande Tom.\n\n— Tous ces beaux jours !\n\nTom prend la photo.\n\n— Alors, ce soir, on regarde les autres photos avec papa et maman ?\n\n— Oui ! dit Nina. Et on leur montre nos dessins !",
+    "origine": "ia",
+    "auteur": null,
+    "oeuvre": null,
+    "date_parution": null,
+    "traducteur": null,
+    "statut_juridique": null,
+    "mots": 351,
+    "jlisi": 1.7,
+    "kandel_moles": 115.5,
+    "etoiles": 1,
+    "mots_cles": [
+      "Enfance",
+      "Famille",
+      "Souvenirs et mémoire",
+      "Lecture et livres",
+      "Découverte"
+    ],
+    "qcm": [
+      {
+        "numero": 1,
+        "question": "Que cherche Nina au début de l'histoire ?",
+        "options": [
+          "Une photo.",
+          "Son livre.",
+          "Un dessin.",
+          "Un petit jeu."
+        ],
+        "reponse": 1
+      },
+      {
+        "numero": 2,
+        "question": "Qui vient aider Nina à chercher ?",
+        "options": [
+          "Son père.",
+          "Sa mère.",
+          "Une amie.",
+          "Son frère Tom."
+        ],
+        "reponse": 3
+      },
+      {
+        "numero": 3,
+        "question": "Où Tom trouve-t-il une boîte ?",
+        "options": [
+          "Sous le lit.",
+          "Dans le sac.",
+          "Sur la table.",
+          "Près de la porte."
+        ],
+        "reponse": 0
+      },
+      {
+        "numero": 4,
+        "question": "Que contient la boîte ?",
+        "options": [
+          "Des vêtements et des chaussures.",
+          "Des livres et des cahiers neufs.",
+          "Des jeux, des feuilles et de vieux dessins.",
+          "Des lettres et des cartes."
+        ],
+        "reponse": 2
+      },
+      {
+        "numero": 5,
+        "question": "Que voit-on sur le dessin qui représente Nina et Tom ?",
+        "options": [
+          "Deux enfants dans une maison.",
+          "Deux enfants dans un jardin.",
+          "Deux enfants près de la mer.",
+          "Deux enfants dans une école."
+        ],
+        "reponse": 1
+      },
+      {
+        "numero": 6,
+        "question": "Pourquoi Tom rit-il en regardant ce dessin ?",
+        "options": [
+          "Nina a dessiné son nez très grand.",
+          "Nina a oublié de dessiner ses cheveux.",
+          "Il porte un drôle de chapeau.",
+          "Il tient un ballon trop petit."
+        ],
+        "reponse": 0
+      },
+      {
+        "numero": 7,
+        "question": "Où la photo de famille a-t-elle été prise ?",
+        "options": [
+          "Dans un jardin.",
+          "Devant leur maison.",
+          "Au bord d'un lac.",
+          "Près de la mer."
+        ],
+        "reponse": 3
+      },
+      {
+        "numero": 8,
+        "question": "Où Nina retrouve-t-elle finalement son livre ?",
+        "options": [
+          "Dans la boîte.",
+          "Sur la table.",
+          "Sous son lit.",
+          "Dans son sac."
+        ],
+        "reponse": 2
+      },
+      {
+        "numero": 9,
+        "question": "Pourquoi Nina dit-elle qu'ils ont trouvé bien plus qu'un livre ?",
+        "options": [
+          "Parce qu'ils ont trouvé de nouveaux jeux.",
+          "Parce qu'ils ont retrouvé des souvenirs heureux.",
+          "Parce que Tom lui a donné un cadeau.",
+          "Parce qu'ils ont découvert un autre livre."
+        ],
+        "reponse": 1
+      },
+      {
+        "numero": 10,
+        "question": "Que veulent faire Nina et Tom le soir ?",
+        "options": [
+          "Regarder les photos et montrer leurs dessins à leurs parents.",
+          "Aller jouer dans le jardin.",
+          "Ranger tous les livres de la maison.",
+          "Faire de nouveaux dessins pour leur chambre."
+        ],
+        "reponse": 0
+      }
+    ]
   }
 ]
