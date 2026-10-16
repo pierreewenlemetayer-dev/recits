@@ -8789,5 +8789,139 @@
         "reponse": 0
       }
     ]
+  },
+  {
+    "numero": 70,
+    "titre": "Le bruit dans le mur",
+    "texte": "Chaque soir, Noé entend un bruit dans sa chambre.\n\nTac. Tac. Tac.\n\nLe bruit vient du mur, près de son lit.\n\nLa première nuit, Noé ne dit rien. La deuxième nuit, il appelle son père.\n\n— Papa ! Viens voir !\n\nSon père entre dans la chambre.\n\n— Que se passe-t-il ?\n\n— Il y a un bruit dans le mur !\n\nIls attendent. Rien.\n\n— Tu as peut-être rêvé, dit son père.\n\n— Non ! Je l'ai entendu !\n\nSon père reste encore un moment, puis il sort.\n\nLa nuit suivante, le bruit revient.\n\nTac. Tac. Tac.\n\nNoé allume sa lampe. Il regarde sous son lit. Il ouvre son armoire. Rien.\n\nPuis il entend un autre bruit.\n\nScratch. Scratch.\n\nCette fois, il a peur.\n\nIl court dans la chambre de sa sœur.\n\n— Lina ! Réveille-toi !\n\n— Quoi ? demande-t-elle.\n\n— Il y a quelque chose dans mon mur !\n\nLina se lève.\n\n— Montre-moi.\n\nIls entrent dans la chambre de Noé. Le bruit a cessé.\n\n— Tu vois ? dit Lina. Il n'y a rien.\n\nMais au moment où elle va sortir…\n\nTac. Tac. Tac.\n\nLina s'arrête.\n\n— Ah oui. J'ai entendu !\n\nLes deux enfants se regardent.\n\n— Tu crois que c'est quoi ? demande Noé.\n\n— Je ne sais pas.\n\nLina colle son oreille au mur.\n\nScratch. Scratch.\n\n— Ça bouge ! dit-elle.\n\nNoé recule.\n\n— On appelle papa ?\n\n— Attends. Regarde là !\n\nLina montre un petit trou près du sol.\n\nUn peu de terre tombe du trou.\n\nPuis quelque chose apparaît.\n\nDeux petits yeux noirs.\n\nNoé pousse un cri.\n\nUne souris sort la tête, puis rentre dans le mur.\n\n— Une souris ! dit Lina.\n\nNoé regarde le trou.\n\n— Elle vit dans ma chambre ?\n\n— Dans le mur, je crois.\n\nLes enfants vont chercher leur père.\n\nCette fois, il les croit tout de suite.\n\nLe lendemain, leur père pose une petite cage près du trou, avec un morceau de pain.\n\nLe soir, la souris entre dans la cage.\n\nNoé et Lina la regardent.\n\n— Elle est toute petite, dit Noé.\n\nLeur père prend la cage.\n\n— Nous allons la mettre dehors, loin de la maison.\n\nIls vont tous les trois près d'un grand champ.\n\nLeur père ouvre la cage. La souris sort et court dans l'herbe.\n\nNoé sourit.\n\n— Au revoir, petite souris !\n\nCette nuit-là, Noé dort très bien.\n\nMais le matin, Lina vient le voir.\n\n— Noé, j'ai entendu un bruit dans ma chambre !\n\nNoé ouvre de grands yeux.\n\n— Encore une souris ?\n\nLina éclate de rire.\n\n— Non ! C'était toi qui ronflais !",
+    "origine": "ia",
+    "auteur": null,
+    "oeuvre": null,
+    "date_parution": null,
+    "traducteur": null,
+    "statut_juridique": null,
+    "mots": 391,
+    "jlisi": 2.8,
+    "kandel_moles": 115.1,
+    "etoiles": 2,
+    "mots_cles": [
+      "Enfance",
+      "Famille",
+      "Peur",
+      "Mystère",
+      "Animaux"
+    ],
+    "qcm": [
+      {
+        "numero": 1,
+        "question": "Quand Noé entend-il le bruit mystérieux ?",
+        "options": [
+          "Chaque matin.",
+          "Chaque soir.",
+          "Pendant les repas.",
+          "Quand il rentre de l'école."
+        ],
+        "reponse": 1
+      },
+      {
+        "numero": 2,
+        "question": "D'où semble venir le bruit ?",
+        "options": [
+          "Du mur près de son lit.",
+          "De son armoire.",
+          "De la fenêtre.",
+          "Du couloir."
+        ],
+        "reponse": 0
+      },
+      {
+        "numero": 3,
+        "question": "Pourquoi le père de Noé ne le croit-il pas au début ?",
+        "options": [
+          "Noé lui a déjà menti.",
+          "Il pense que Lina fait une farce.",
+          "Il croit que le bruit vient du vent.",
+          "Il n'entend aucun bruit et pense que Noé a rêvé."
+        ],
+        "reponse": 3
+      },
+      {
+        "numero": 4,
+        "question": "Que fait Noé lorsqu'il entend un nouveau bruit ?",
+        "options": [
+          "Il sort de la maison.",
+          "Il se cache sous son lit.",
+          "Il va réveiller sa sœur.",
+          "Il appelle un ami."
+        ],
+        "reponse": 2
+      },
+      {
+        "numero": 5,
+        "question": "Qu'est-ce qui convainc Lina que Noé dit la vérité ?",
+        "options": [
+          "Elle voit une ombre.",
+          "Elle entend elle aussi le bruit.",
+          "Elle trouve une trace sur le sol.",
+          "Elle voit son père près du mur."
+        ],
+        "reponse": 1
+      },
+      {
+        "numero": 6,
+        "question": "Que découvrent les deux enfants près du sol ?",
+        "options": [
+          "Un petit trou dans le mur.",
+          "Une porte cachée.",
+          "Un jouet cassé.",
+          "Une boîte fermée."
+        ],
+        "reponse": 0
+      },
+      {
+        "numero": 7,
+        "question": "Quel animal apparaît dans le mur ?",
+        "options": [
+          "Un oiseau.",
+          "Un chat.",
+          "Un lézard.",
+          "Une souris."
+        ],
+        "reponse": 3
+      },
+      {
+        "numero": 8,
+        "question": "Comment le père attrape-t-il l'animal ?",
+        "options": [
+          "Avec un grand filet.",
+          "Avec ses mains.",
+          "Avec une petite cage et du pain.",
+          "Avec une boîte en carton."
+        ],
+        "reponse": 2
+      },
+      {
+        "numero": 9,
+        "question": "Que fait la famille de l'animal ?",
+        "options": [
+          "Elle le garde dans la chambre de Noé.",
+          "Elle le libère près d'un champ.",
+          "Elle le donne à des voisins.",
+          "Elle le laisse dans le jardin."
+        ],
+        "reponse": 1
+      },
+      {
+        "numero": 10,
+        "question": "Pourquoi Lina se moque-t-elle gentiment de Noé à la fin ?",
+        "options": [
+          "Parce qu'il ronfle pendant la nuit.",
+          "Parce qu'il a encore peur de la souris.",
+          "Parce qu'il a perdu sa lampe.",
+          "Parce qu'il parle à la souris."
+        ],
+        "reponse": 0
+      }
+    ]
   }
 ]
