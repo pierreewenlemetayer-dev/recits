@@ -8970,12 +8970,12 @@
       },
       {
         "numero": 3,
-        "question": "Quel événement a provoqué l'arrêt du mécanisme quarante ans auparavant ?",
+        "question": "Pourquoi les habitants avaient-ils interdit de remettre l'horloge en marche ?",
         "options": [
-          "Un incendie dans l'atelier.",
-          "Une inondation du village.",
-          "La disparition du maire.",
-          "L'effondrement d'une partie du clocher après treize sonneries."
+          "Parce que son mécanisme était impossible à réparer.",
+          "Parce que le beffroi appartenait à une autre commune.",
+          "Parce que l'horloger avait perdu la clé.",
+          "Parce qu'une catastrophe s'était produite lors de la treizième sonnerie."
         ],
         "reponse": 3
       },
