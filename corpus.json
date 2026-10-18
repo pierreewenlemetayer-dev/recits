@@ -9593,5 +9593,139 @@
         "reponse": 3
       }
     ]
+  },
+  {
+    "numero": 76,
+    "titre": "Le manuscrit des ombres",
+    "texte": "Lorsque Éloi pénétra dans le scriptorium abandonné de l'abbaye, une odeur de parchemin moisi et de poussière stagnante l'enveloppa. Les rayonnages vermoulus disparaissaient sous des concrétions blanchâtres, tandis que des filaments de moisissure tapissaient les reliures disloquées. Depuis plusieurs décennies, personne n'avait entrepris l'inventaire de cette bibliothèque, condamnée après l'effondrement partiel du cloître.\n\nÉloi, spécialiste des manuscrits médiévaux, recherchait un codex mentionné dans un inventaire du XIVe siècle. Selon cette notice lacunaire, l'ouvrage contenait des observations astronomiques attribuées à un moine inconnu.\n\nSur un pupitre branlant, il découvrit un volume dont la couverture de cuir présentait des entrelacs presque effacés. Le fermoir oxydé céda sous une légère pression. À l'intérieur, les feuillets de vélin révélaient une calligraphie minuscule, ponctuée de lettrines vermillon et d'annotations marginales.\n\nMais plusieurs pages avaient été grattées.\n\nÉloi reconnut immédiatement un palimpseste : un parchemin dont l'écriture primitive avait été effacée pour permettre une nouvelle transcription. Sous les caractères gothiques subsistaient des tracés fantomatiques, presque imperceptibles.\n\nIl installa une lampe à éclairage ultraviolet. Des signes auparavant invisibles apparurent, formant des diagrammes concentriques accompagnés de chiffres et de symboles énigmatiques.\n\nL'un des dessins représentait une éclipse. Un autre figurait une constellation inhabituelle, entourée de calculs dont la précision paraissait extraordinaire pour l'époque.\n\nÉloi photographia les feuillets, puis examina une inscription située au bas d'une page. Quelques mots latins désignaient une date, mais celle-ci semblait incompatible avec les événements astronomiques représentés.\n\nUne falsification ?\n\nIl consulta les tables chronologiques conservées dans ses dossiers. La configuration des astres correspondait à une éclipse survenue près de deux siècles avant la rédaction supposée du manuscrit.\n\nUne hypothèse surgit : le copiste médiéval avait peut-être reproduit un document beaucoup plus ancien.\n\nEn examinant les cahiers cousus ensemble, Éloi remarqua une irrégularité dans la reliure. Un feuillet avait été replié puis dissimulé sous une bande de parchemin. Il souleva délicatement cette languette et découvrit une miniature presque intacte.\n\nElle représentait un observatoire circulaire, surmonté d'une coupole ajourée. Autour de l'édifice figuraient des instruments astronomiques : astrolabes, quadrants, sphères armillaires. Une inscription mentionnait une cité dont le nom avait disparu des chroniques connues.\n\nLe chercheur sentit son enthousiasme céder à la perplexité. Pourquoi dissimuler une illustration aussi remarquable ?\n\nAu revers du feuillet, une phrase avait été tracée avec une encre différente. Éloi parvint à la déchiffrer :\n\n« Ce qui fut observé ne doit pas être oublié, même lorsque ceux qui l'observèrent auront disparu. »\n\nIl demeura longtemps immobile.\n\nLe manuscrit ne décrivait peut-être pas seulement les mouvements célestes. Il conservait la mémoire d'un savoir transmis clandestinement, recopié, effacé puis retranscrit par des générations de scribes.\n\nDehors, les cloches du village sonnèrent. Éloi referma précautionneusement le codex et nota les premières conclusions de son examen.\n\nIl lui faudrait comparer les pigments, analyser les encres, dater les fibres et identifier les différentes mains ayant participé à la rédaction. Chacune de ces investigations pourrait contredire son hypothèse.\n\nPourtant, au milieu du scriptorium silencieux, une certitude s'imposait : sous l'écriture visible, une autre histoire attendait encore d'être lue.",
+    "origine": "ia",
+    "auteur": null,
+    "oeuvre": null,
+    "date_parution": null,
+    "traducteur": null,
+    "statut_juridique": null,
+    "mots": 493,
+    "jlisi": 26.2,
+    "kandel_moles": null,
+    "etoiles": 12,
+    "mots_cles": [
+      "Lecture et livres",
+      "Mystère",
+      "Découverte",
+      "Enquête",
+      "Art"
+    ],
+    "qcm": [
+      {
+        "numero": 1,
+        "question": "Pourquoi Éloi se rend-il dans l'ancienne bibliothèque de l'abbaye ?",
+        "options": [
+          "Pour réparer les dégâts causés par l'effondrement du cloître.",
+          "Pour retrouver un manuscrit mentionné dans un inventaire médiéval.",
+          "Pour établir la liste des ouvrages à vendre.",
+          "Pour rechercher les archives d'une famille du village."
+        ],
+        "reponse": 1
+      },
+      {
+        "numero": 2,
+        "question": "Quel domaine de connaissance le manuscrit recherché devait-il aborder ?",
+        "options": [
+          "La médecine.",
+          "L'architecture.",
+          "L'astronomie.",
+          "La navigation maritime."
+        ],
+        "reponse": 2
+      },
+      {
+        "numero": 3,
+        "question": "Qu'est-ce qui caractérise le palimpseste découvert par Éloi ?",
+        "options": [
+          "Des pages dont une ancienne écriture a été effacée pour être remplacée.",
+          "Une reliure constituée de plusieurs ouvrages modernes.",
+          "Un texte écrit uniquement avec des symboles astronomiques.",
+          "Un livre dont toutes les pages ont disparu."
+        ],
+        "reponse": 0
+      },
+      {
+        "numero": 4,
+        "question": "À quoi sert l'éclairage ultraviolet utilisé par Éloi ?",
+        "options": [
+          "À dater immédiatement le parchemin.",
+          "À désinfecter les feuillets.",
+          "À faire apparaître des tracés devenus invisibles.",
+          "À révéler le nom du propriétaire de l'abbaye."
+        ],
+        "reponse": 2
+      },
+      {
+        "numero": 5,
+        "question": "Pourquoi la date inscrite sur une page intrigue-t-elle Éloi ?",
+        "options": [
+          "Elle est postérieure à la destruction du cloître.",
+          "Elle ne correspond pas à l'éclipse représentée dans le manuscrit.",
+          "Elle est rédigée dans une langue inconnue.",
+          "Elle a été remplacée par une date moderne."
+        ],
+        "reponse": 1
+      },
+      {
+        "numero": 6,
+        "question": "Quelle hypothèse Éloi formule-t-il après avoir consulté ses tables chronologiques ?",
+        "options": [
+          "Le manuscrit décrit une éclipse qui n'a jamais eu lieu.",
+          "Le moine a inventé les observations astronomiques.",
+          "Les illustrations ont été ajoutées au XXe siècle.",
+          "Le copiste a pu reproduire un document bien plus ancien."
+        ],
+        "reponse": 3
+      },
+      {
+        "numero": 7,
+        "question": "Comment Éloi découvre-t-il l'illustration de l'observatoire ?",
+        "options": [
+          "Il trouve un feuillet caché dans la reliure.",
+          "Il déchiffre une inscription sur la couverture.",
+          "Il détache une peinture accrochée au mur.",
+          "Il ouvre un coffret placé sous le pupitre."
+        ],
+        "reponse": 0
+      },
+      {
+        "numero": 8,
+        "question": "Quels objets figurent autour de l'observatoire représenté ?",
+        "options": [
+          "Des instruments de chirurgie.",
+          "Des instruments astronomiques.",
+          "Des outils agricoles.",
+          "Des instruments de musique."
+        ],
+        "reponse": 1
+      },
+      {
+        "numero": 9,
+        "question": "Que suggère la phrase inscrite au revers du feuillet ?",
+        "options": [
+          "Que les astronomes souhaitaient garder leurs calculs secrets à jamais.",
+          "Que l'observatoire allait être détruit par une éclipse.",
+          "Que les observations devaient être transmises au-delà de la disparition de leurs auteurs.",
+          "Que les scribes avaient renoncé à comprendre les astres."
+        ],
+        "reponse": 2
+      },
+      {
+        "numero": 10,
+        "question": "Pourquoi Éloi ne considère-t-il pas son hypothèse comme définitivement prouvée ?",
+        "options": [
+          "Il sait que des analyses matérielles et historiques restent nécessaires.",
+          "Il a déjà identifié l'auteur de toutes les pages.",
+          "Il estime que les instruments astronomiques sont imaginaires.",
+          "Il décide de ne plus consulter le manuscrit."
+        ],
+        "reponse": 0
+      }
+    ]
   }
 ]
